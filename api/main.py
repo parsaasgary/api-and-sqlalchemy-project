@@ -10,7 +10,7 @@ from sqlalchemy.orm import Session
 from datetime import date
 
 
-import schemas
+from . import schemas
 import Database.CRUD as crud
 from Database.create_db_and_tabels import engine
 
