@@ -5,3 +5,5 @@ Dockerfile
 .dockerignore
 
 .pytest_cache
+
+sdk
